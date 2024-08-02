@@ -1,15 +1,17 @@
 // Q 1.Write a JavaScript for loop that iterates from 0 to 10 and prints only the even numbers.
 
 
-// function evenNumbers(){
-//     for( var i=0; i<=10; i++){
-//        if(i%2===0){
-//         console.log(i);
-//        }
+function evenNumbers(){
+    for( var i=0; i<=10; i++){
+       if(i%2===0){
+        console.log(i);
+       }
       
-//     }
-// }
-// evenNumbers();
+    }
+}
+evenNumbers();
+
+
 
 
 // Q.2 Write a JavaScript while loop that calculates the factorial of a given number.
@@ -92,7 +94,8 @@
 // var sum=0;
 // for( var i=1; i<=1000; i++){
 //     if(i%3===0 && i%5===0){
-//         console.log(i)
+//      
+
 //     }
 // }
     
